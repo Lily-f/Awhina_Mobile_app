@@ -1,0 +1,16 @@
+.chat-name {
+    font-weight: bold;
+    float: left;
+    margin-right: 20px;
+}
+
+.chat-sent {
+    
+}
+
+.chat-message {
+    float: left;
+    margin-bottom: 15px;
+    word-wrap: break-word;
+    text-align: left;
+}

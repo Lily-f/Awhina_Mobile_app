@@ -1,0 +1,16 @@
+.mentoring_session {
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    box-shadow: none;
+}
+
+.mentor-session-header {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.mentoring-description {
+    word-wrap: break-word;
+    text-align: left;
+}

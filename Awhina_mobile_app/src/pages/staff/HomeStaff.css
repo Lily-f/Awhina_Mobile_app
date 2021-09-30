@@ -1,0 +1,12 @@
+.list-header {
+    font-size: large;
+}
+.list-item {
+    padding: 0px;
+    margin-top: -15px;
+}
+.events-posted-date {
+    padding: 0px;
+    margin-top: -15px;
+    font-weight: bold;
+}

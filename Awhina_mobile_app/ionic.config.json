@@ -1,0 +1,7 @@
+{
+  "name": "Awhina_mobile_app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

@@ -1,0 +1,17 @@
+.workshop-event {
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    box-shadow: none;
+}
+
+.workshop-event-header {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.workshop-description {
+    word-wrap: break-word;
+    text-align: left;
+}
+
